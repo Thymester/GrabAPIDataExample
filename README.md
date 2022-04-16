@@ -1,3 +1,9 @@
+# Images of the example
+
+![Image 1](https://cdn.has-cool.pics/%c3%b1%c3%ae%c3%8f%c3%b5%c3%a9%c3%93%c3%ab%c3%be%c3%a6%c3%a7.png?k=pSxlbKdz2HjT1JuT)
+![Image 2](https://cdn.has-cool.pics/%c3%af%c3%b1%c3%bb%c3%91%c3%af%c3%af%c3%bb%c5%93%c3%91%c3%8f.png?k=Ju8DkyZY3OCjNtXR)
+![Image 3](https://cdn.has-cool.pics/%c3%b0%c3%9f%c3%bd%c3%b8%c3%a6%c5%93%c3%a9%c5%93%c3%b1%c3%bc.png?k=1AaBvUuOD0y6t6JC)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
