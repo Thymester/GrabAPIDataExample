@@ -12,7 +12,7 @@ class App extends React.Component {
 }
 
   componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/posts")
+    fetch("https://jsonplaceholder.typicode.com/photos")
       .then(res => res.json())
       .then(
         (result) => {
@@ -42,7 +42,9 @@ class App extends React.Component {
               {items.map(item => (
                 <li key={item.id}>
                   <h2>{item.title}</h2>
-                  <p>{item.body}</p>
+                  <p>{item.url}</p>
+                  <p>{item.thumbnailUrl}</p>
+                  <br></br>
                 </li>
               ))}
               
